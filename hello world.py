@@ -9,3 +9,5 @@ print(ID.strip())
 print(ID[2:6])
 print(ID.replace('h','a'))
 print(len(ID))
+FID='sahel gasemi'
+print(ID,'and',FID)
