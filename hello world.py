@@ -1,5 +1,11 @@
 print("homework:string")
-ID ='mohammadreza rezaee'
+ID ='Mohammadreza Rezaee '
 print(ID)
 print('name=',ID[0:12])
-print('lastname=',ID[13:18])
+print('lastname=',ID[13:19])
+print(ID.lower())
+print(ID.upper())
+print(ID.strip())
+print(ID[2:6])
+print(ID.replace('h','a'))
+print(len(ID))
