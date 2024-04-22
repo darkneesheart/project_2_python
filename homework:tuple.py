@@ -1,0 +1,12 @@
+print("homework:tuple")
+T1=(25,17.19,2741585993,17.19)
+print(T1)
+print(len(T1))
+print(T1.count(25))
+print(T1.index(17.19))
+print(max(T1))
+print(min(T1))
+print(sum(T1))
+T2=("pishrafte","wensday","mohammadreza")
+T3=T1+T2
+print(T3)
